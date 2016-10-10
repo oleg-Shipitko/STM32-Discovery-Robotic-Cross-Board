@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Cross_project.PrjPcb]
+   Generated File[Cross-board-Plated.TXT]
+   Generated File[Cross-board.LDP]
+   Generated File[Cross-board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 13:28:10 On 05.02.2016

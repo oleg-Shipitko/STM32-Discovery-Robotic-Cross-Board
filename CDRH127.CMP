@@ -1,0 +1,14 @@
+Component   : PCBComponent_1
+PCB Library : CDRH127.PcbLib
+Date        : 19.11.2013
+Time        : 17:49:58
+
+
+
+Dimension : 14.249 x 14.249 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          4        0       1        0
+--------------------------------------------------------------------
+ Total                       0          4        0       1        0
